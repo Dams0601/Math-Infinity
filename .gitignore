@@ -1,0 +1,27 @@
+# Général
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# L'icône doit se terminer par deux \ r
+Icône
+
+
+# Miniatures
+._ *
+
+# Fichiers pouvant apparaître à la racine d'un volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.ItemsTemporaires
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Répertoires potentiellement créés sur un partage AFP distant
+.AppleDB
+.AppleDesktop
+Dossier Corbeille réseau
+Articles temporaires
+.apdisk
