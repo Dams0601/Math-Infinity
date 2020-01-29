@@ -302,19 +302,19 @@ input, select, textarea {
 			margin: 3em 0;
 		}
 
-	#Exemple {
+	.Exemple {
 		color: green;
 	}
 
-	#Def {
+	.Def {
 		color: red;
 	}
 
-	#Remarque {
+	.Remarque {
 		color: black;
 	}
 
-	#Profession{
+	.Profession{
 		font-size: 0.7em;
 		color: grey;
 	}
